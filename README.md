@@ -1,6 +1,6 @@
 # OMEGAI
 ## Descripción
-Consiste en una aplicacion hecha con python el cual tu realizas llamadas a la API de google gemini y la IA te responde
+Consiste en una aplicacion hecha con python el cual tu realizas llamadas a la API de google gemini y la IA te responde dicha aplicacion tiene un System prompt que permite agregar una configuracion por defecto
 
 ## Ciclo de vida del dato (5b):
 ### ¿Cómo se gestionan los datos desde su generación hasta su eliminación en tu proyecto?
