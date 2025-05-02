@@ -66,10 +66,10 @@ or following this link: https://ricitos2001-omegai.hf.space/
 
 
 ## License
-😎💬 Aphra is released under the ![MIT License](./LICENSE). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
+😎💬 Aphra is released under the [MIT License](./LICENSE). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
 ## Contributing
-Contributions to 😎💬 Aphra are welcome! Whether it's improving the code, enhancing the documentation, or suggesting new features, your input is valuable. Please check out the ![CONTRIBUTING.md](./CONTRIBUTE.md) file for guidelines on how to get started and make your contributions count.
+Contributions to 😎💬 Aphra are welcome! Whether it's improving the code, enhancing the documentation, or suggesting new features, your input is valuable. Please check out the [CONTRIBUTING.md](./CONTRIBUTE.md) file for guidelines on how to get started and make your contributions count.
 
 ## References
 This software is deploymend with Gradio: https://www.gradio.app/ and made with Python: https://www.python.org/
