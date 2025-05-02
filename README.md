@@ -12,7 +12,7 @@
     </a>
 </p>
 
-OMEGAI 😎💬 is the new AI model tool designed to make it easier to use and access different AI models. Unlike current AI models, OMEGAI is a multifunctional tool that allows different versions of different AI models to be used.
+OMEGAI 😎💬 is the new AI model tool made with [Python](https://www.python.org/) and [Gradio](https://www.gradio.app/), asociated with [openrouter.ai](https://openrouter.ai/) and designed to make it easier to use and access different AI models. Unlike current AI models, OMEGAI is a multifunctional tool that allows different versions of different AI models to be used.
 This approach aims to improve the current use of artificial intelligence models, guaranteeing an improvement in accessibility and a great user experience.
 
 > **Important Note:** OMEGAI 😎💬 is not intended to replace the work of current AI models, but aims to make current AI models easier to use and access. OMEGAI offers a simple way to works with every AI model in one unic place.
@@ -47,7 +47,8 @@ This approach aims to improve the current use of artificial intelligence models,
 [References](#references)
 
 ## Motivation
-
+The reason I wanted to do this project was that I wanted to create a tool that would allow me to work with all the AIs that currently exist without having to search for them one at a time.
+Other reasons why I wanted to do this was because of the interest I have in artificial intelligence in addition to the fact that the gradio library was very curious
 
 ## Why OMEGAI?
 I decided put the name thinking that it would be the ultimate AI modeling tool for every uses
