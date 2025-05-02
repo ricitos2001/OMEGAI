@@ -49,7 +49,7 @@ OMEGAI 😎💬 is
 
 
 ## Why OMEGAI?
-
+I decided put the name thinking that it would be the ultimate AI modeling tool for every uses
 
 ## How OMEGAI works
 
