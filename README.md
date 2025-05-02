@@ -1,10 +1,8 @@
+# OMEGAI 😎💬
+
 - Una motivación clara sobre el proyecto.
 - Instrucciones para desplegarlo en diferentes plataformas.
 - Ejemplos de uso.
-
-# OMEGAI 😎💬
-
-
 
 ## Index
 
