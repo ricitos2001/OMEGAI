@@ -27,23 +27,23 @@ OMEGAI 😎💬 is
 </p>
 
 ## Index
-![Motivation](#motivation)
+[Motivation](#motivation)
 
-![Why OMEGAI?](#why-omegai)
+[Why OMEGAI?](#why-omegai)
 
-![How OMEGAI works](#how-omegai-works)
+[How OMEGAI works](#how-omegai-works)
 
-![Demo](#demo)
+[Demo](#demo)
 
-![Getting started](#getting-started)
+[Getting started](#getting-started)
 
-![Customizability and ideas for extensions](#customizability-and-ideas-for-extensions)
+[Customizability and ideas for extensions](#customizability-and-ideas-for-extensions)
 
-![License](#license)
+[License](#license)
 
-![Contributing](#contributing)
+[Contributing](#contributing)
 
-![References](#references)
+[References](#references)
 
 ## Motivation
 
