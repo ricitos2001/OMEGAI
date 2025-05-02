@@ -12,9 +12,10 @@
     </a>
 </p>
 
-OMEGAI 😎💬 is
+OMEGAI 😎💬 is the new AI model tool designed to make it easier to use and access different AI models. Unlike current AI models, OMEGAI is a multifunctional tool that allows different versions of different AI models to be used.
+This approach aims to improve the current use of artificial intelligence models, guaranteeing an improvement in accessibility and a great user experience.
 
-> **Important Note:** 😎💬
+> **Important Note:** OMEGAI 😎💬 is not intended to replace the work of current AI models, but aims to make current AI models easier to use and access. OMEGAI offers a simple way to works with every AI model in one unic place.
 
 <p align="center">
     <a href="https://huggingface.co/spaces/ricitos2001/OMEGAI">Demo</a>
