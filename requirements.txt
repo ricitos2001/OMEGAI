@@ -1,6 +1,6 @@
 huggingface_hub==0.28.1
 openai==1.63.2
 requests==2.32.3
-gradio==5.20.1
-gradio_client==1.7.2
+gradio==5.29.0
+gradio_client==1.10.0
 langfuse==2.60.2
