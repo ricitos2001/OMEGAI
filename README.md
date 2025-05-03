@@ -38,8 +38,6 @@ This approach aims to improve the current use of artificial intelligence models,
 
 [Getting started](#getting-started)
 
-[Customizability and ideas for extensions](#customizability-and-ideas-for-extensions)
-
 [License](#license)
 
 [Contributing](#contributing)
@@ -54,18 +52,48 @@ Other reasons why I wanted to do this was because of the interest I have in arti
 I decided put the name thinking that it would be the ultimate AI modeling tool for every uses
 
 ## How OMEGAI works
-
+OMEGAI works with the Openrouter API and with the libraries from python an openai
+1. select your AI model: OMEGAI 😎💬 have some AI models. You can select the AI model that you want
+2. Put your API key of the AI model selected: if you don't know how, you can follow the steps from running
+3. System Prompt: you can configure the behaviour of the AI using the system prompt
+4. Prompt textBox: whrite your question in your textBox
+5. Chat completion: the AI will give you a resopnse using the configured system prompt and the question from the prompt textbox
 
 ## Demo
 You can try 😎💬 OMEGAI following this link: https://huggingface.co/spaces/ricitos2001/OMEGAI
 or following this link: https://ricitos2001-omegai.hf.space/
 
-
 ## Getting started
+Getting Started
+To get started with 😎💬 OMEGAI, follow these steps:
 
+### Prerequisites
+Ensure you have the following installed on your system:
 
-## Customizability and ideas for extensions
+- git (for cloning the repository)
+- Python 3.8 or higher
+- pip (Python package installer)
+- The libraries and packages from the file [requirements.txt](requirements.txt)
 
+### Clone the repository
+Before proceeding with the configuration or installation, you need to clone the repository. This is a common step required for all installation methods.
+1. Clone the repository: git clone ```https://github.com/ricitos2001/OMEGAI.git```
+2. Navigate into the project directory: ```cd OMEGAI```
+
+### Running
+1. Run the program and follow the link from the CMD
+![image1](./assets/CMDLink.png)
+
+2. Follow this link from OpenRouter.ai and make your API key: https://openrouter.ai/settings/keys
+
+3. Make your API key
+![image2](./assets/step_1.png)
+![image3](./assets/step_2.png)
+
+4. Copy your API key
+![image4](./assets/step_3.png)
+
+5. Paste your API key in the configuration section
 
 ## License
 😎💬 Aphra is released under the [MIT License](./LICENSE). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
