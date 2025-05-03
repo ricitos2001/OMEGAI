@@ -102,6 +102,6 @@ Before proceeding with the configuration or installation, you need to clone the 
 Contributions to 😎💬 Aphra are welcome! Whether it's improving the code, enhancing the documentation, or suggesting new features, your input is valuable. Please check out the [CONTRIBUTING.md](./CONTRIBUTE.md) file for guidelines on how to get started and make your contributions count.
 
 ## References
-This software is deploymend with Gradio: https://www.gradio.app/ and made with Python: https://www.python.org/
-Visit OpenRouter.ai: https://openrouter.ai/
-Visit openai: https://openai.com/
+- This software is deploymend with Gradio: https://www.gradio.app/ and made with Python: https://www.python.org/
+- Visit OpenRouter.ai: https://openrouter.ai/
+- Visit openai: https://openai.com/
