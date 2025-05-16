@@ -1,6 +1,4 @@
 import time
-from typing import Iterable
-
 import requests
 import gradio as gr
 from openai import OpenAI
@@ -18,7 +16,7 @@ def obtener_modelos():
 
 def obtener_respuesta(modelo, api_key, prompt):
     client = OpenAI(base_url=URL, api_key=api_key)
-    mensajes = Iterable["role": "assistant", "content": prompt]
+    mensajes = [{"role": "assistant", "content": prompt}]
     respuesta = client.chat.completions.create(model=modelo, messages=mensajes)
     return respuesta.choices[0].message.content
 
